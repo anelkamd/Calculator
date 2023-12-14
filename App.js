@@ -32,3 +32,4 @@ const calcul = (valeur) => {
 window.addEventListener('error', (e) => {
     alert("Une erreur est survenue dans votre calcule...." + e.message);
 })
+// finish project JS
